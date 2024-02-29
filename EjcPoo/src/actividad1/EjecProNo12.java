@@ -4,7 +4,7 @@ public class EjecProNo12 {
 
 	public static void main(String[] args) {
 		
-		double salBruto = 48*5000;   /*Realizamos el calculo del salaria bruto con la cantidad de horas trabajadas multiplicadas por el valor de cada hora*/
+		double salBruto = 48*5000;   /*Realizamos el calculo del salario bruto con la cantidad de horas trabajadas multiplicadas por el valor de cada hora*/
 		
 		double retFuente = 0.125 * salBruto; /*calculamos la retencion del 12,5%*/
 		
